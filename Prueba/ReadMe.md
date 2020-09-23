@@ -4,9 +4,17 @@
 
 ### Practica 2
 
->esto
+>Esto
 
->aquello
+1. SSH
+2. HTML
+3. VSN
+
+>Aquello
+
+1. SSH
+2. HTML
+3. VSN
 
 >Lo otro
 
