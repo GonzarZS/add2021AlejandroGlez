@@ -4,9 +4,11 @@
 
 ### Practica 2
 
->esto___
->aquello___
->Lo otro___
+>esto
+
+>aquello
+
+>Lo otro
 
 1. SSH
 2. HTML
