@@ -4,9 +4,9 @@
 
 ### Practica 2
 
-esto<
-aquello<
-Lo otro<
+>esto___
+>aquello___
+>Lo otro___
 
 1. SSH
 2. HTML
