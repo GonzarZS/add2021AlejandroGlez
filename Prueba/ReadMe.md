@@ -1,13 +1,13 @@
-#Hola Mundo
+# Hola Mundo
 
-##Prueba 1
+## Prueba 1
 
-###Practica 2
+### Practica 2
 
->esto
->aquello
->Lo otro
+>esto<
+>aquello<
+>Lo otro<
 
-1.SSH
-1.HTML
-1.VSN
+1. SSH
+2. HTML
+3. VSN
