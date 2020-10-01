@@ -1,2 +1,3 @@
 # add2021AlejandroGlez
-Hola mundo
+Info:
+Git didactico de curso asir 2021
