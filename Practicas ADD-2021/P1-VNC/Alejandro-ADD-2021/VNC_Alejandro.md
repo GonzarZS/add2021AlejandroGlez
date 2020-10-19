@@ -19,3 +19,7 @@ Conectarnos mediante TightVNC usando la contraseña adecuada de dicha máquina e
 ![Texto](./3.png)
 
 Se puede apreciar que la pantalla se vuelve negra,he abierto el inicio de la maquina esclava para que se vea que estoy conectado desde la cliente a la esclava 
+
+Ahora comprobaremos con el comando netstat -n
+
+![Texto](./4.png)
