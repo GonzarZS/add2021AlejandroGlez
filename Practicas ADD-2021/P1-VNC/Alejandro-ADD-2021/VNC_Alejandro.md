@@ -1,10 +1,10 @@
 # Coneccion por VNC
 ### Windows Slave
 
->Descargar TightVNC y customizar como servidor
+Descargar TightVNC y customizar como servidor
 
 ### Windows Master
-> En el cliente instalar TightVNC como viewer
+En el cliente instalar TightVNC como viewer
 
 ## _**Comprobaciones**_
 Conseguir la IP del server Slave
