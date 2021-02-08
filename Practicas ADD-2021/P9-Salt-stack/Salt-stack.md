@@ -69,6 +69,12 @@ Aplicamos el estado con el comando salt '*' state.apply files
 
 Se aplico el estado correctamente
 
-## Intento de ampliación de estado apache
+## 5.3 Ampliación de estado apache
 
- ![](./19.png)
+Modificamos el init.sls de apache 
+
+ ![](./21.png)
+ 
+ Y aplicamos el estado con el comaqndo salt '*' state.apply
+ 
+![](./20)
