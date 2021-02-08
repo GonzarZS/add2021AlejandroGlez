@@ -75,6 +75,6 @@ Modificamos el init.sls de apache
 
  ![](./21.png)
  
- Y aplicamos el estado con el comaqndo salt '*' state.apply
+ Y aplicamos el estado con el comando salt '*' state.apply
  
-![](./20)
+![](./20.png)
